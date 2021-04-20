@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398547556740",
+    "project_id": "cu-guildd",
+    "storage_bucket": "cu-guildd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398547556740:android:19e71c18213a1e826e25d1",
+        "android_client_info": {
+          "package_name": "com.example.cuguildd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398547556740-a7urbouud9e3831c37nv6vq2fvtb9h96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbd-yj-PkVm7EStI4P8M-Zjlc6S7y1y5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398547556740-a7urbouud9e3831c37nv6vq2fvtb9h96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
